@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Built with love by [Dragonfly Capital](https://www.dcp.capital/)
+Built with love by [Dragonfly Capital](https://dragonfly.xyz/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
